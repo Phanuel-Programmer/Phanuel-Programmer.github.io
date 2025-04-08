@@ -4,3 +4,4 @@ Commit changes with git commit -a
 push changes with git push
 
 At any time, check my status with git status
+to type hit i to stop typing hit esc, then colon wq.
